@@ -21,7 +21,7 @@
 
 At long last, a profile README.md file
 
-Someone aleady had my name on its own so I went with the Letterman style “Guy so nice they named me twice” alternative, if that is a question you had.
+Someone already had my name on its own so I went with the Letterman style “Guy so nice they named me twice” alternative, if that is a question you had.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Civic+Volunteer+to+Make+your+Communities+Better!)](https://git.io/typing-svg)
 
@@ -31,4 +31,4 @@ I suggested in late 2021 (post-pandemic, a Brave New World!) that I should spend
 
 I learned this first hand while traveling around for Intel, in the Maker Innovator Group, whereby I was able to work with various people of all ages and skill levels at Hackathons and at Maker Faires, and there is nothing more educational then seeing up close and personal from people *trying* to use the thing you made, and having a hard time doing it. Or maybe they have a great time, the point is, you find that out directly, rather than in a meeting or via some social media review stream.
 
-So check out the [Innovate for Vegas](https://github.com/CodeForVegas) organization here on GitHub (**Note**: our legal name change is happening with the usual paperwork delays, and the actual org rename here on GitHub will require some notice to any active devs of course, but stay tuned!)
+So check out the [Innovate for Vegas](https://github.com/InnovateForVegas) organization here on GitHub!
