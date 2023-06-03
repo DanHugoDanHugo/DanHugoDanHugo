@@ -23,7 +23,7 @@ At long last, a profile README.md file
 
 Someone already had my name on its own so I went with the Letterman style “Guy so nice they named me twice” alternative, if that is a question you had.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Civic+Volunteer+to+Make+your+Communities+Better!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Civic+Volunteerism+FTW!)](https://git.io/typing-svg)
 
 ## Civic Volunteerism
 
