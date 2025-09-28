@@ -31,4 +31,10 @@ I suggested in late 2021 (post-pandemic, a Brave New World!) that I should spend
 
 I learned this first hand while traveling around for Intel, in the Maker Innovator Group, whereby I was able to work with various people of all ages and skill levels at Hackathons and at Maker Faires, and there is nothing more educational then seeing up close and personal from people *trying* to use the thing you made, and having a hard time doing it. Or maybe they have a great time, the point is, you find that out directly, rather than in a meeting or via some social media review stream.
 
-So check out the [Innovate for Vegas](https://github.com/InnovateForVegas) organization here on GitHub!
+So check out the [Innovate for Vegas Home](https://innovateforvegas.org) and [InnovateForVegas](https://github.com/InnovateForVegas) our GitHub organization.
+
+I often commit as my alter ego as part of the Foundation, [DevOps-InnovateForVegas](https://github.com/DevOps-InnovateForVegas).
+
+Note also, we now have an additional organization here on GitHub with an associated domain, to split the activities of our Org with the business side (we are a Nevada Nonprofit Corporation, after all).
+
+The business website is at [Innovate for Vegas Foundation](https://innovateforvegas.foundation) and [Innovate For Vegas Fdn](https://github.com/InnovateForVegasFdn) our GitHub organization.
