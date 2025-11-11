@@ -25,9 +25,9 @@ At long last, a profile README.md file
 
 Someone already had my name on its own so I went with the Letterman style “Guy so nice they named me twice” alternative, if that is a question you had.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Civic+Volunteerism+FTW!)](https://git.io/typing-svg)
-
 ## Civic Volunteerism
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Civic+Volunteerism+FTW!)](https://git.io/typing-svg)
 
 I suggested in late 2021 (post-pandemic, a Brave New World!) that I should spend my second half doing some socially responsible development, including more open source, more locally-important projects, more engagement with people around me. If you develop something, no matter what it is, and you are near the person or people who will use that thing, your thing will be better, even if it takes a few iterations.
 
