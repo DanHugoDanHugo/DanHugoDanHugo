@@ -19,7 +19,14 @@
 
 # Dan Hugo’s Profile Readme
 
-At long last, a profile README.md file
+A few useful details.
+
+Social Links
+
+- [LinkedIn - Deprecating 2026](https://linkedin.com/in/danhugo)
+- [@danhugo@Fosstodon.org](https://fosstodon.org/@danhugo)
+- [@DanHugo@Mastodon.online](https://mastodon.online/@DanHugo)
+- [@danhugo@Me.dm](https://me.dm/@danhugo)
 
 ## Why Twice?
 
