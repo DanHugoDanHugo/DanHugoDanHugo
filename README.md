@@ -28,6 +28,10 @@ Social Links
 - [@DanHugo@Mastodon.online](https://mastodon.online/@DanHugo)
 - [@danhugo@Me.dm](https://me.dm/@danhugo)
 
+I am migrating away from platforms like these, even though the latter three are indeed decentralized members of the so-called fediverse.
+
+We need to do better, and we can… LinkedIn is already deprecated, you can check out the profile info if you like, but please contact me via email, thank you.
+
 ## Why Twice?
 
 Someone already had my name on its own so I went with the Letterman style “Guy so nice they named me twice” alternative, if that is a question you had.
