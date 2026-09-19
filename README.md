@@ -23,14 +23,16 @@ A few useful details.
 
 Social Links
 
-- [LinkedIn - Deprecating 2026](https://linkedin.com/in/danhugo)
+- LinkedIn - Deprecating 2026 - See github profile links
 - [@danhugo@Fosstodon.org](https://fosstodon.org/@danhugo)
 - [@DanHugo@Mastodon.online](https://mastodon.online/@DanHugo)
 - [@danhugo@Me.dm](https://me.dm/@danhugo)
 
 I am migrating away from platforms like these, even though the latter three are indeed decentralized members of the so-called fediverse.
 
-We need to do better, and we can… LinkedIn is already deprecated, you can check out the profile info if you like, but please contact me via email, thank you.
+We need to do better, and we can…
+
+LinkedIn is already deprecated, you can check out the profile info if you like, the link to that is still in my GitHub profile links, but please contact me via email rather than using their DM feature, thank you.
 
 ## Why Twice?
 
